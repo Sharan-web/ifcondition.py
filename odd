@@ -1,0 +1,9 @@
+if a%2#odd number and even number
+a===0:
+  print("it is even number")
+else:
+  print("it is odd number"
+enter the number2
+it is even number
+enter the number2
+it is even number
