@@ -1,0 +1,34 @@
+for kishan in range(1,30):
+  if kishan%2==0:
+   print("even number")
+  else:
+   print("odd number")
+odd number
+even number
+odd number
+even number
+odd number
+even number
+odd number
+even number
+odd number
+even number
+odd number
+even number
+odd number
+even number
+odd number
+even number
+odd number
+even number
+odd number
+even number
+odd number
+even number
+odd number
+even number
+odd number
+even number
+odd number
+even number
+odd number
